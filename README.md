@@ -13,6 +13,9 @@
   </pre>
 </p>
 <p align="center">
+  <img src="This Is Fine GIF.gif" width="600" />
+</p>
+<p align="center">
   <img src="Happy My Song GIF by Justin.gif" width="600" />
 </p>
 <!--
